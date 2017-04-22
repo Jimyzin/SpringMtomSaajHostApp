@@ -6,7 +6,7 @@
             we want to use the saaj module provided by JBoss
             it looks like we can't use the implementation provided by the JDK - JBoss somehow does not seem to allow it
             -->
-            <module name="com.sun.xml.messaging.saaj" />
+            <module name="com.sun.xml.messaging.saaj"/>
         </dependencies>
     </deployment>
 </jboss-deployment-structure>
