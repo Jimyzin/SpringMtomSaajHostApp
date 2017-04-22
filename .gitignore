@@ -6,5 +6,5 @@ target/*
 *.jar
 *.war
 *.rar
-/.idea
+/.idea/*/*
 
