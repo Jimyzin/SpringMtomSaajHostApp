@@ -1,10 +1,10 @@
 *.iml
 *.class
-.idea
+/.idea
 .settings/*
 target/*
 *.jar
 *.war
 *.rar
-/.idea/*/*
+/.idea/*
 
